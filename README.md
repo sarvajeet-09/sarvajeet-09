@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarvajeet_59881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarvajeet_59881" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarvajeet singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvajeet singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sarvajeetsingh71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sarvajeetsingh71" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarvajeetsingh771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvajeetsingh771" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarvajeet3feu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarvajeet3feu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarvajeet-singh-8b8008244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvajeet singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sarvajeetsingh71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sarvajeetsingh71" height="30" width="40" /></a>
+<a href="https://leetcode.com/sarvajeetsingh771/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvajeetsingh771" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sarvajeet3feu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarvajeet3feu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
